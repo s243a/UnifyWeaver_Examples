@@ -11,4 +11,5 @@ source, tests, and small runnable examples.
 
 - `graph/effect_dist/haskell/gen/` - generated Haskell effective-distance
   benchmark material.
-
+- `graph/effect_dist/rust/gen/` - generated Rust effective-distance benchmark
+  material for comparison with the Haskell output.
